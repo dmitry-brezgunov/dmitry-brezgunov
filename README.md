@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Dmitry Brezgunov, I'm a Python developer.
+- **Software Engineer (Backend)**  at Beeline Russia
 
-<!--
-**dmitry-brezgunov/dmitry-brezgunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts
+- brezgunov.dmitri@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/brezgunov-dmitry/)
 
-Here are some ideas to get you started:
+### Human Languages
+- Russian: *Native*
+- English: *B1/B2*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work Experience
+
+**Software Engineer (Backend)** \
+**Beeline** • Full-time \
+Languages & Technologies: `Python`, `Django`, `DRF`, `PostgreSQL`, `Prefect ETL`, `GitLab`, `Pandas`
+
+**Work in progress...** :hammer_and_wrench:
